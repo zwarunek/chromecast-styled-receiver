@@ -1,10 +1,12 @@
 
-.background {
+.background{
     background: rgb(0, 0, 0);
 }
   
-.logo {
-    background-image: url(https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png);
+  
+  .logo {
+    background-image: url(logo.svg);
+    background-size: 200px 200px;
   }
   
   .progressBar {
@@ -12,10 +14,11 @@
   }
   
   .splash {
-    background-image: url(https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png);
+    background-image: url(logo.svg);
+    background-size: 200px 200px;
   }
   
   .watermark {
-    background-image: url(https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png);
+    background-image: url(logo.svg);
     background-size: 57px 57px;
   }
