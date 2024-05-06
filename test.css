@@ -1,0 +1,21 @@
+
+.background {
+    background: rgb(0, 0, 0);
+}
+  
+.logo {
+    background-image: url(https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png);
+  }
+  
+  .progressBar {
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .splash {
+    background-image: url(https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png);
+  }
+  
+  .watermark {
+    background-image: url(https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png);
+    background-size: 57px 57px;
+  }
